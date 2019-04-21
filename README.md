@@ -1,1 +1,2 @@
-# Xun_CurveMove
+自己弄的一个小插件，比当前Unity商店里免费的路线插件要更灵活一点。
+使用方法：demo文件夹有例子，调用PlayCurve方法运行。
